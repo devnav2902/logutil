@@ -1,0 +1,18 @@
+{
+    "name": "devnav2902/logutil",
+    "description": "Handle for log in catch blog (try-catch)",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devnav2902\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguyynavu",
+            "email": "nguyenanhvu.work@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
