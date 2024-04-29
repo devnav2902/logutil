@@ -1,6 +1,6 @@
 <?php
 
-namespace Devnav2902\Http\Controllers;
+namespace Devnav2902\LogUtil\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
