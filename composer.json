@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Devnav2902\\LogUtil\\": "src/"
+            "Devnav2902\\LogUtil\\": "project/"
         }
     },
     "authors": [
