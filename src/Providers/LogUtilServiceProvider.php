@@ -1,6 +1,6 @@
 <?php
 
-namespace Devnav2902\Providers;
+namespace Devnav2902\LogUtil\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
