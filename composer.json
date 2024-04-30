@@ -14,5 +14,15 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Devnav2902\\LogUtil\\LogUtilServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    }
 }
